@@ -1,3 +1,5 @@
+# programa para calcular nota do aluno #7
+
 nota1 = float(input('Primeiro Bimestre: '))
 nota2 = float(input('Segundo Bimestre: '))
 media = (nota1 + nota2)/2

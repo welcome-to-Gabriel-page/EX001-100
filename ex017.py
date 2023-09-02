@@ -1,3 +1,5 @@
+# programa q solicita um numero e te mostra se é e porque é um numero primo ou nao #17
+
 numeroInteiro = int(input('Digite um número: '))
 total = 0
 for contador in range(1, numeroInteiro + 1):

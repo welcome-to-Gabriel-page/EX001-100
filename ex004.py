@@ -1,3 +1,5 @@
+# alguns comandos bons de memorizar #4
+
 palavra = input('Digite uma palavra: ')
 print('Tipo primitivo: ', type(palavra))
 print('Só tem espaços: ', palavra.isspace())

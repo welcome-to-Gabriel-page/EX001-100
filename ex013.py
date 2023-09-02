@@ -1,6 +1,7 @@
 # contador 0 a 500
 # quantidade de valores multiplos de 3
 # soma dos multiplos de 3
+#13
 
 
 soma = 0

@@ -1,3 +1,5 @@
+# nao entendi muito bem esse #16
+
 primeiro = int(input('Primeiro termo: '))
 razao = int(input('Razão: '))
 decimo = primeiro + (10-1) * razao

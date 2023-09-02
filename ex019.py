@@ -1,4 +1,4 @@
-# exercicio para ler o peso de 5 pessoas e definir o maior e o menor peso
+# exercicio para ler o peso de 5 pessoas e definir o maior e o menor peso #19
 
 
 maiorPeso = 0

@@ -1,6 +1,7 @@
 # solicitar 6 numeros inteiros
 # resgatar apenas numeros pares
 # somar a quantidade de numeros pares encontrados e a soma entre eles
+#15
 
 contador = 0
 soma = 0

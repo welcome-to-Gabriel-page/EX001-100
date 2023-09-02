@@ -1,3 +1,5 @@
+# programa q solicita um numero o imprime o dobro, triplo e raiz quadrada do mesmo #6
+
 import math
 
 numero = (int(input('Digite um número: ')))

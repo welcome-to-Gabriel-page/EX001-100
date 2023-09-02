@@ -1,4 +1,4 @@
-# exercicio para verificar idade e se é maior ou menor de 18
+# exercicio para verificar idade e se é maior ou menor de 18 #18
 
 from datetime import date
 atual = date.today().year

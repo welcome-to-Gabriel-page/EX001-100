@@ -1,3 +1,5 @@
+# programa q solicita um numero e te da a tabuada desse numero, do jeito trabalhoso #9
+
 numero = int(input('Digite um número para ver sua tabuada: '))
 print('-'*13)
 print('{} x {} = {}'.format(numero, 1, numero*1))
